@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ranjan Sharma
-- 👀 I’m interested in Codings like Html,Css,Php and Solidity
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in programming and creating a new projects
+- 🌱 I’m currently learning solidity/crypto
 - 💞️ I’m looking to collaborate with programmer
 - 📫 How to reach me ...
 
